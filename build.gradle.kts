@@ -4,7 +4,7 @@ plugins {
     application
 }
 
-group = "org.example"ßß
+group = "org.example"
 version = "1.0-SNAPSHOT"
 
 repositories {
